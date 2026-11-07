@@ -1,0 +1,4 @@
+kivy
+qrcode[pil]
+python-dotenv
+supabase
